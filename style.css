@@ -136,13 +136,13 @@
   background: linear-gradient(135deg, var(--primary), #5ed9ff);
   color: white;
   text-align: center;
-  padding: 90px 20px;
+  padding: 60px 20px;
 }
 
 .cta h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 2.4rem;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 
 /* CONTACT */
@@ -168,3 +168,4 @@ footer {
     max-width: 170px;
   }
 }
+
