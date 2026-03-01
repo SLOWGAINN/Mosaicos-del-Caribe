@@ -60,7 +60,7 @@
 .btn {
   background: var(--primary);
   color: white;
-  padding: 16px 36px;
+  padding: 12px 24px;
   border-radius: 30px;
   text-decoration: none;
   font-weight: bold;
@@ -168,4 +168,5 @@ footer {
     max-width: 170px;
   }
 }
+
 
